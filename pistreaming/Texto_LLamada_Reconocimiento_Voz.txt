@@ -1,0 +1,4 @@
+Python grabar vídeo
+Python para grabación
+Python inicia streaming
+Python parar streaming
